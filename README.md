@@ -10,3 +10,5 @@ For more information about each project, visit the README within the project's d
 [Project 1 - MS Classifiers](https://github.com/brynnbeaman/DASC-41103-Group-22/blob/main/Project1/README.md) 
 
 [Project 2 - Applying MLP](https://github.com/brynnbeaman/DASC-41103-Group-22/blob/main/Project2/README.md)
+
+[Project 3 - Applying CNN](https://github.com/brynnbeaman/DASC-41103-Group-22/blob/main/Project3/README.md)
